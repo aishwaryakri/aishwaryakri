@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aishwaryakri
 - 👀 I’m interested in coding and compelling
 - 🌱 I’m currently learning programming
-- 📫 Reach me at my social media page or email.
+- 📫 Reach me at aishwaryakumari.tech@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ New to the world of programming 
 
